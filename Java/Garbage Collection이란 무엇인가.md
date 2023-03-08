@@ -28,4 +28,4 @@ stop-the-world를 실행하면 GC를 실행하는 쓰레드를 제외한 모든 
 그리고 Old 영역이 가득차서 Survivor 영역에서 Old 영역으로 이동이 불가능할 때 Old 영역에 대한 GC(Major GC)가 실행됩니다.
 
 - # 참고자료
-- [https://github.com/GimunLee/tech-refrigerator/blob/master/Language/JAVA/Garbage%20Collection.md#garbage-collection](https://github.com/GimunLee/tech-refrigerator/blob/master/Language/JAVA/Garbage%20Collection.md#garbage-collection)
+  - [https://github.com/GimunLee/tech-refrigerator/blob/master/Language/JAVA/Garbage%20Collection.md#garbage-collection](https://github.com/GimunLee/tech-refrigerator/blob/master/Language/JAVA/Garbage%20Collection.md#garbage-collection)
