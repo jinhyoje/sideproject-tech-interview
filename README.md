@@ -9,4 +9,6 @@
 
   - [Spring Boot, Spring Framework 차이]()
 
+- ### Java
+
   - [가비지 컬렉션(Garbage Collection)이란 무엇인가](https://github.com/Oh-Myeongjae/sideproject-tech-interview/blob/main/Java/Garbage%20Collection%EC%9D%B4%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.md)
