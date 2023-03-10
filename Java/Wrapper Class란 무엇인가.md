@@ -7,7 +7,6 @@
 
 #### Boxing(박싱) vs Unboxing(언박싱)
 
-![.png](assets/다운로드.png)
 
 - 기본 타입과 래퍼 클래스는 상호 변환이 이루어지는데, 이러한 과정을 각각 boxing, unboxing라고 한다.
   - boxing(박싱) : 기본 타입에서 wrapper 클래스로 전환
