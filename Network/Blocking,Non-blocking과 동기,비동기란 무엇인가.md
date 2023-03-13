@@ -14,3 +14,5 @@
   - 논블럭/동기
   - 논블럭/비동기
 
+- # 참고자료
+[http://homoefficio.github.io/2017/02/19/Blocking-NonBlocking-Synchronous-Asynchronous/](http://homoefficio.github.io/2017/02/19/Blocking-NonBlocking-Synchronous-Asynchronous/)
