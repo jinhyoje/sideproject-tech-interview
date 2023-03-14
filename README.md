@@ -2,7 +2,7 @@
 
 - ### JPA
    
-   -[영속성 컨텍스트란 무엇인가](https://github.com/jinhyoje/sideproject-tech-interview/blob/main/JPA/%EC%98%81%EC%86%8D%EC%84%B1%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.md) 
+   - [영속성 컨텍스트란 무엇인가](https://github.com/jinhyoje/sideproject-tech-interview/blob/main/JPA/%EC%98%81%EC%86%8D%EC%84%B1%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.md) 
 
 - ### Network
 
