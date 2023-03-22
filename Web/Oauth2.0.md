@@ -40,7 +40,7 @@
 
 # OAuth 2.0의 동작 메커니즘
 
-1 ~ 2. 로그인 요청
+1. 로그인 요청
 
 - Resource Owner가 우리 서비스의 '구글로 로그인하기' 등의 버튼을 클릭해 로그인을 요청한다.
 - Client는 OAuth 프로세스를 시작하기 위해 사용자의 브라우저를 Authorization Server로 보내야한다.
@@ -53,25 +53,24 @@ https://authorization-server.com/auth?response_type=code
 &scope=create+delete
 ```
 
-3 ~ 4. 로그인 페이지 제공, ID/PW 제공
+2. 로그인 페이지 제공, ID/PW 제공
 - 클라이언트가 빌드한 Authorization URL로 이동된 Resource Owner는 제공된 로그인 페이지에서 ID와 PW 등을 입력하여 인증할 것 이다.
 
-5 ~ 6. Authorization Code 발급, Redirect URI로 리디렉트
+3. Authorization Code 발급, Redirect URI로 리디렉트
 - 인증이 성공되었다면, Authorization Server 는 제공된 Redirect URI로 사용자를 리디렉션시킬 것 이다.
 - Redirect URI에 Authorization Code를 포함하여 사용자를 리디렉션 시킨다.
 - Authorization Code란 Client가 Access Token을 획득하기 위해 사용하는 임시 코드이다. 이 코드는 수명이 매우 짧다. (일반적으로 1~10분)
 
-7 ~ 8. Authorization Code와 Access Token 교환
+4. Authorization Code와 Access Token 교환
 - Client는 Authorization Server에 Authorization Code를 전달하고, Access Token을 응답받는다.
 - Client는 발급받은 Resource Owner의 Access Token을 저장하고, 이후 Resource Server에서 Resource Owner의 리소스에 접근하기 위해 Access Token을 사용한다.
 
-9. 로그인 성공
-- 위 과정을 성공적으로 마치면 Client는 Resource Owner에게 로그인이 성공하였음을 알린다.
-
-10 ~ 13. Access Token으로 리소스 접근
+5-1. Access Token으로 리소스 접근
 - 이후 Resource Owner가 Resource Server의 리소스가 필요한 기능을 Client에 요청한다. 
 - Client는 위 과정에서 발급받고 저장해둔 Resource Owner의 Access Token을 사용하여 제한된 리소스에 접근하고, Resource Owner에게 자사의 서비스를 제공한다.
 
+5-2. 로그인 성공
+- 위 과정을 성공적으로 마치면 Client는 Resource Owner에게 로그인이 성공하였음을 알린다.
 
 
 
