@@ -23,6 +23,7 @@
   - [래퍼 클래스(Wrapper Class)란 무엇인가](https://github.com/jinhyoje/sideproject-tech-interview/blob/main/Java/Wrapper%20Class%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.md)
   - [HashMap의 동작방식](https://github.com/jinhyoje/sideproject-tech-interview/blob/main/Java/HashMap%20%EB%8F%99%EC%9E%91%EB%B0%A9%EC%8B%9D.md)
   - [접근 제한자(Access Modifier)에 대해 설명해주세요.](https://github.com/jinhyoje/sideproject-tech-interview/blob/main/Java/%EC%A0%91%EA%B7%BC%20%EC%A0%9C%ED%95%9C%EC%9E%90(Access%20Modifier).md)
+  - [배열과 연결리스트 차이를 설명해주세요.]()
   
 - ### Database
   
