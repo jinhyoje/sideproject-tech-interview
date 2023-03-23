@@ -24,14 +24,14 @@
   - [HashMap의 동작방식](https://github.com/jinhyoje/sideproject-tech-interview/blob/main/Java/HashMap%20%EB%8F%99%EC%9E%91%EB%B0%A9%EC%8B%9D.md)
   - [접근 제한자(Access Modifier)에 대해 설명해주세요.](https://github.com/jinhyoje/sideproject-tech-interview/blob/main/Java/%EC%A0%91%EA%B7%BC%20%EC%A0%9C%ED%95%9C%EC%9E%90(Access%20Modifier).md)
   - [배열과 연결리스트 차이를 설명해주세요.](https://github.com/Oh-Myeongjae/sideproject-tech-interview/blob/main/Java/%EB%B0%B0%EC%97%B4%EA%B3%BC%20%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%EC%B0%A8%EC%9D%B4%EB%A5%BC%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.md)
-  - [join에 대해서 설명해 주세요.]()
   
 - ### Database
   
   - [RDB와 NOSQL의 차이와 각각 장단점에 대해서 설명하시오](https://github.com/Oh-Myeongjae/sideproject-tech-interview/blob/main/database/RDB%EC%99%80%20NOSQL%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%99%80%20%EA%B0%81%EA%B0%81%20%EC%9E%A5%EB%8B%A8%EC%A0%90%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C%20%EC%84%A4%EB%AA%85%ED%95%98%EC%8B%9C%EC%98%A4.md)
   - [redis에 대해 설명해주세요.](https://github.com/Oh-Myeongjae/sideproject-tech-interview/blob/main/DataBase/redis%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.md)
   - [DDL, DML, DCL 이란 무엇인지 설명해 보시오.](https://github.com/Oh-Myeongjae/sideproject-tech-interview/blob/main/DataBase/DDL%2C%20DML%2C%20DCL%20%EC%9D%B4%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EC%A7%80%20%EC%84%A4%EB%AA%85%ED%95%B4%20%EB%B3%B4%EC%8B%9C%EC%98%A4.)
-  
+   - [join에 대해서 설명해 주세요.](https://github.com/Oh-Myeongjae/sideproject-tech-interview/blob/main/DataBase/join%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C%20%EC%84%A4%EB%AA%85%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.md)
+   
 - ### Web
   - [Oauth2.0에 대해서 간단히 설명하세요.](https://github.com/jinhyoje/sideproject-tech-interview/blob/main/Web/Oauth2.0.md)
 - ### CS지식
