@@ -9,6 +9,7 @@
   - [Blocking,Non-blocking과 동기,비동기란 무엇인가](https://github.com/Oh-Myeongjae/sideproject-tech-interview/blob/main/Network/Blocking%2CNon-blocking%EA%B3%BC%20%EB%8F%99%EA%B8%B0%2C%EB%B9%84%EB%8F%99%EA%B8%B0%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.md)
   - [Session과 Cookie의 차이](https://github.com/jinhyoje/sideproject-tech-interview/blob/main/Network/Session%EA%B3%BC%20Cookie%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
   - [데드락이 무엇인가](https://github.com/jinhyoje/sideproject-tech-interview/blob/main/Network/%EB%8D%B0%EB%93%9C%EB%9D%BD%EC%9D%B4%20%EB%AC%B4%EC%97%87%EC%9D%B4%EA%B3%A0%2C%20%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95.md)
+  - [HTTP GET과 POST의 차이는 무엇인가요?](https://github.com/Oh-Myeongjae/sideproject-tech-interview/blob/main/Network/HTTP%20GET%EA%B3%BC%20POST%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EB%8A%94%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94.md)
 
 - ### Spring
 
