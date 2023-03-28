@@ -25,6 +25,7 @@
   - [HashMap의 동작방식](https://github.com/jinhyoje/sideproject-tech-interview/blob/main/Java/HashMap%20%EB%8F%99%EC%9E%91%EB%B0%A9%EC%8B%9D.md)
   - [접근 제한자(Access Modifier)에 대해 설명해주세요.](https://github.com/jinhyoje/sideproject-tech-interview/blob/main/Java/%EC%A0%91%EA%B7%BC%20%EC%A0%9C%ED%95%9C%EC%9E%90(Access%20Modifier).md)
   - [배열과 연결리스트 차이를 설명해주세요.](https://github.com/Oh-Myeongjae/sideproject-tech-interview/blob/main/Java/%EB%B0%B0%EC%97%B4%EA%B3%BC%20%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%EC%B0%A8%EC%9D%B4%EB%A5%BC%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.md)
+  - [직렬화(Serialization)에 대하여 설명해보시오]()
   
 - ### Database
   
