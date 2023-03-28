@@ -18,5 +18,5 @@
 - 당연하게 보이는 장점 중에 하나지만 데이터 타입이 자동으로 맞춰지기 때문에 관련 부분을 큰 신경을 쓰지 않아도 됩니다.
 
 ## 참고자료(우아한형제들)
-- ### 직렬화정의와 장점<br>(https://techblog.woowahan.com/2550/)[https://techblog.woowahan.com/2550/]
-- ### 직렬화시 고려해야될 <br>(https://techblog.woowahan.com/2551/)[https://techblog.woowahan.com/2551/]
+- ### 직렬화정의와 장점<br>[https://techblog.woowahan.com/2550/]
+- ### 직렬화시 고려해야될 <br>[https://techblog.woowahan.com/2551/]
