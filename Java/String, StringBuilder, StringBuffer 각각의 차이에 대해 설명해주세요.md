@@ -34,6 +34,6 @@
    - StringBuffer는 동기화를 지원하여 멀티 스레드 환경에서도 안전하게 동작할 수 있다.
    - web이나 소켓환경과 같이 비동기로 동작하는 경우가 많을 때는 StringBuffer를 사용
 2. StringBuilder 클래스는 쓰레드에서 안전하지 않다.(thread unsafe) 
-  - StringBuilder는 동기화를 지원하지 않는다.
-  - 속도면에선 StringBuffer 보다 성능이 좋다.
+    - StringBuilder는 동기화를 지원하지 않는다.
+    - 속도면에선 StringBuffer 보다 성능이 좋다.
 
