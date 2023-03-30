@@ -27,6 +27,7 @@
   - [배열과 연결리스트 차이를 설명해주세요.](https://github.com/Oh-Myeongjae/sideproject-tech-interview/blob/main/Java/%EB%B0%B0%EC%97%B4%EA%B3%BC%20%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%EC%B0%A8%EC%9D%B4%EB%A5%BC%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.md)
   - [직렬화(Serialization)에 대하여 설명해보시오](https://github.com/Oh-Myeongjae/sideproject-tech-interview/blob/main/Java/%EC%A7%81%EB%A0%AC%ED%99%94(Serialization)%EC%97%90%20%EB%8C%80%ED%95%98%EC%97%AC%20%EC%84%A4%EB%AA%85%ED%95%B4%EB%B3%B4%EC%8B%9C%EC%98%A4.md)
   - [Parameter, Argument의 차이에 대해서 말해보시오](https://github.com/Oh-Myeongjae/sideproject-tech-interview/blob/main/Java/Parameter%2C%20Argument%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C%20%EB%A7%90%ED%95%B4%EB%B3%B4%EC%8B%9C%EC%98%A4.md)
+  - [Stream의점장단점](https://github.com/jinhyoje/sideproject-tech-interview/blob/main/Java/Stream%EC%9D%98%20%EC%9E%A5%EC%A0%90%EA%B3%BC%20%EB%8B%A8%EC%A0%90.md)
   
 - ### Database
   
